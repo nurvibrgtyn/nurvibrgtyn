@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Nurvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurvibrgtyn)](https://github.com/nurvibrgtyn/github-readme-stats)
+[![Nurvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurvibrgtyn&show_icons=true&theme=dracula)](https://github.com/nurvibrgtyn/github-readme-stats)
 
 <!--
 **nurvibrgtyn/nurvibrgtyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
