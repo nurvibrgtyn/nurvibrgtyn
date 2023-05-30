@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nurvi and currently learning programming on college.
+### Hi there 👋 I'm Nurvi and currently learning mobile development on college.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurvibrgtyn&hide_progress=true)](https://github.com/nurvibrgtyn/github-readme-stats)
 <!--
