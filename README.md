@@ -1,4 +1,8 @@
-### Hi there 👋 I'm Nurvi and currently learning mobile development on college.
+### Hi there 👋 I'm Nurvi or you can call me Bri.
+
+- 🌱 I’m currently learning Kotlin and UI UX design.
+- 🔭 I’m currently working on Tourism android app for BANGKIT2023's capstone project.
+- ⚡ Fun fact: I'm an INFJ who loves to draw and likes sea creatures.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurvibrgtyn&hide_progress=true)](https://github.com/nurvibrgtyn/github-readme-stats)
 <!--
